@@ -10,8 +10,8 @@
 <span style="font-size:20px;">Kişisel blog sayfam
 <a href="http://www.elektrobot.net" target="_blank">ELEKTROBOT</a></span>
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=oguzhanbaser&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=oguzhanbaser&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=oguzhanbaser&layout=compact)](https://github.com/oguzhanbaser/github-readme-stats)
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=oguzhanbaser&layout=compact)](https://github.com/oguzhanbaser/github-readme-stats)
 
 </div>
